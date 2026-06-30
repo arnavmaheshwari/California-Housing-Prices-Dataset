@@ -135,7 +135,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Arnav Maheshwari** [GitHub Profile](https://www.google.com/search?q=https://github.com/arnavmaheshwari)
+**Arnav Maheshwari** [GitHub Profile](https://github.com/arnavmaheshwari)
 
 ## Acknowledgements
 
